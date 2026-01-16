@@ -49,10 +49,7 @@ const Navbar = () => {
 
           {currentUser && (
             <div className="user" onClick={() => setOpen(!open)}>
-              <img
-                src="https://www.dreamstime.com/illustration/s-letter-linked.html"
-                alt="image"
-              />
+              <img src="./images/dpimg.jpeg" alt="image" />
               <span>{currentUser?.username}</span>
               {open && (
                 <div className="options">
