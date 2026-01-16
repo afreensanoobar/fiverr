@@ -10,13 +10,7 @@ import Add from "./pages/add/Add"
 import Messages from "./pages/messages/Messages"
 import Message from "./pages/message/Message"
 import "./App.scss"
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Routes,
-  Outlet,
-} from "react-router-dom"
+import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"
 
 function App() {
   const Layout = () => {
