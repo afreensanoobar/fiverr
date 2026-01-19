@@ -11,7 +11,7 @@ function Featured() {
           </h1>
           <div className="search">
             <div className="searchInput">
-              <img src="./image/search.png" alt="" />
+              <img src="./img/search.png" alt="" />
               <input type="text" placeholder='Try "building mobile app"' />
             </div>
             <button>Search</button>
@@ -25,7 +25,7 @@ function Featured() {
           </div>
         </div>
         <div className="right">
-          <img src="./images/man.png" alt="" />
+          <img src="./img/man2.png" alt="" />
         </div>
       </div>
     </div>

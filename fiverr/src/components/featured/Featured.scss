@@ -81,8 +81,9 @@
           height: 100%;
 
           img {
-            height: 100%;
-            object-fit: contain;
+            height: 500px;
+            width: 300px;
+            // object-fit: contain;
           }
         }
       }
