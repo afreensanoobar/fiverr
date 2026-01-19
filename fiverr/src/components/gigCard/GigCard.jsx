@@ -29,3 +29,4 @@ const GigCard = ({ item }) => {
     </Link>
   )
 }
+export default GigCard
